@@ -1,0 +1,14 @@
+D:\Visual Studio\cSharp\MyProject\SortedListClass\bin\Debug\netcoreapp3.1\SortedListClass.exe
+D:\Visual Studio\cSharp\MyProject\SortedListClass\bin\Debug\netcoreapp3.1\SortedListClass.deps.json
+D:\Visual Studio\cSharp\MyProject\SortedListClass\bin\Debug\netcoreapp3.1\SortedListClass.runtimeconfig.json
+D:\Visual Studio\cSharp\MyProject\SortedListClass\bin\Debug\netcoreapp3.1\SortedListClass.runtimeconfig.dev.json
+D:\Visual Studio\cSharp\MyProject\SortedListClass\bin\Debug\netcoreapp3.1\SortedListClass.dll
+D:\Visual Studio\cSharp\MyProject\SortedListClass\bin\Debug\netcoreapp3.1\SortedListClass.pdb
+D:\Visual Studio\cSharp\MyProject\SortedListClass\obj\Debug\netcoreapp3.1\SortedListClass.csproj.AssemblyReference.cache
+D:\Visual Studio\cSharp\MyProject\SortedListClass\obj\Debug\netcoreapp3.1\SortedListClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\cSharp\MyProject\SortedListClass\obj\Debug\netcoreapp3.1\SortedListClass.AssemblyInfoInputs.cache
+D:\Visual Studio\cSharp\MyProject\SortedListClass\obj\Debug\netcoreapp3.1\SortedListClass.AssemblyInfo.cs
+D:\Visual Studio\cSharp\MyProject\SortedListClass\obj\Debug\netcoreapp3.1\SortedListClass.csproj.CoreCompileInputs.cache
+D:\Visual Studio\cSharp\MyProject\SortedListClass\obj\Debug\netcoreapp3.1\SortedListClass.dll
+D:\Visual Studio\cSharp\MyProject\SortedListClass\obj\Debug\netcoreapp3.1\SortedListClass.pdb
+D:\Visual Studio\cSharp\MyProject\SortedListClass\obj\Debug\netcoreapp3.1\SortedListClass.genruntimeconfig.cache
